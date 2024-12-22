@@ -1,2 +1,3 @@
 print("Enter a todo: ")
-input()
+user_text = input()
+print(user_text)

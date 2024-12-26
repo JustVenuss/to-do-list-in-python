@@ -6,4 +6,4 @@ todo3 = input(user_message)
 todos = [todo1, todo2, todo3]
 print(todos)
 
-print(type(todos))
+print(type(todo1))

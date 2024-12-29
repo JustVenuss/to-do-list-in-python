@@ -1,4 +1,5 @@
-user_message = "Enter a todo don't" todo1=input(user_message)
+user_message = ("Enter a todo")
+todo1 = input(user_message)
 todo2 = input(user_message)
 todo3 = input(user_message)
 
